@@ -1,2 +1,2 @@
-doc/**/*.png
-doc/**/*.jpg
+# Ignora tudo dentro da pasta images
+backend/public/images/*
